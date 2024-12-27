@@ -1,0 +1,1 @@
+This repository demonstrates a common Rust error involving multiple mutable borrows of the same variable.  The `bug.rs` file shows the erroneous code, while `bugSolution.rs` offers a corrected version.  Understanding this error is crucial for writing safe and efficient Rust code.
